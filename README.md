@@ -1,10 +1,10 @@
-# 🗄️ CS-2204: Database Systems Lab Course
+# 🗄️Database-Labs
 
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![Status](https://img.shields.io/badge/Course_Status-Active-Success?style=for-the-badge)
 ![Semeseter](https://img.shields.io/badge/Semester-Spring_2026-blue?style=for-the-badge)
 
-Welcome to my official repository for **CS-2204 Database Systems Labs**. This repository tracks my coursework from foundational environment setup through advanced SQL querying, relational normalization, scalar transformations, and aggregate business intelligence reporting. 
+Welcome to my official repository for **Database-Labs**. This repository tracks my coursework from foundational environment setup through advanced SQL querying, relational normalization, scalar transformations, and aggregate business intelligence reporting. 
 
 Every lab directory is fully self-contained, featuring dedicated schema definitions, sample data initializations, and modular documentation.
 
